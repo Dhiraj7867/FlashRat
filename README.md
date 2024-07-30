@@ -130,7 +130,7 @@
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
   
-  <a href="https://www.youtube.com/@STORM_OFFICIAL/about">
+  <a href="https://www.youtube.com/@STORMBOT_OFFICIAL/about">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
